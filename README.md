@@ -1,115 +1,155 @@
 # Data & Marketing Analyst Portfolio Guide
 
-![Portfolio hero — grocery budget trend analysis](images/custom-cpi-hero.png)
+Welcome to my Data & Marketing Analysis Portfolio.
 
-*A quick visual snapshot of my analysis style: clean metrics, trend interpretation, and business-focused storytelling.*
+I help turn raw data into clear insights and support business decisions with SQL, Python, dashboards, and marketing analytics. This page is a curated showcase of projects across data analysis, marketing reporting, and product analytics—each with a short summary and visuals so you can quickly see what I built and which skills I used.
+
+---
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Objective](#objective)
-- [Skills at a Glance](#skills-at-a-glance)
-- [Projects](#projects)
-  - [Custom CPI & Grocery Budget Analysis](#custom-cpi--grocery-budget-analysis)
-  - [StageTEN Marketing Analytics Showcase](#stageten-marketing-analytics-showcase)
-  - [Alchemy E-commerce Marketing Portfolio](#alchemy-e-commerce-marketing-portfolio)
-  - [Dynamic Portfolio Optimization (PortfolioAI)](#dynamic-portfolio-optimization-portfolioai)
-  - [FFT for Retail Cycle Detection](#fft-for-retail-cycle-detection)
-  - [UW Course Explorer](#uw-course-explorer)
-- [Closing](#closing)
+- [Data \& Marketing Analyst Portfolio Guide](#data--marketing-analyst-portfolio-guide)
+  - [Table of Contents](#table-of-contents)
+  - [Projects overview](#projects-overview)
+  - [Skills at a glance](#skills-at-a-glance)
+  - [Project details](#project-details)
+    - [1. Dynamic Portfolio Optimization (PortfolioAI)](#1-dynamic-portfolio-optimization-portfolioai)
+    - [2. Custom CPI \& Grocery Budget Analysis](#2-custom-cpi--grocery-budget-analysis)
+    - [3. StageTEN Marketing Analytics Showcase](#3-stageten-marketing-analytics-showcase)
+    - [4. UW Course Explorer](#4-uw-course-explorer)
+    - [5. Alchemy E-commerce Marketing Portfolio](#5-alchemy-e-commerce-marketing-portfolio)
+    - [6. FFT for Retail Cycle Detection](#6-fft-for-retail-cycle-detection)
+  - [Closing](#closing)
 
-## Introduction
+---
 
-This README is a curated showcase of projects I built across data analysis, marketing analytics, and product-focused analytics. The goal is to help recruiters quickly understand what I can do: turn raw data into clear insights, communicate findings with visuals, and support business decisions with SQL, Python, and dashboards.
+## Projects overview
 
-## Objective
+| # | Project | Business focus | Tools / skills | Outcome |
+| :---: | :--- | :--- | :--- | :--- |
+| 1 | [**PortfolioAI**](https://github.com/StevenShi998/PortfolioAI) | ML-driven stock allocation and plain-English recommendations for end users. | Python, Variational LSTM, PostgreSQL, full-stack dashboard | Backtested allocations, recommendation history, user preference–driven outputs. |
+| 2 | [**Custom CPI & Grocery Budget**](https://github.com/StevenShi998/Custom-CPI-Study) | How much did a fixed grocery basket cost over 5 years? Trend and category drivers. | SQL (CTEs, window functions), Python (pandas, NumPy), Power BI | 60-month trend, increase/decrease breakdown, beef category focus; dashboard-ready. |
+| 3 | [**StageTEN**](https://github.com/StevenShi998/StageTEN) | Marketing reports and automation for HubSpot/Shopify (deal naming, app downloader, KPIs). | Python, pandas, CSV, report writing | Consistent deal naming, lifecycle segmentation, channel performance reports. |
+| 4 | [**UW Course Explorer**](https://github.com/StevenShi998/UW-Course-SearchTree) | Prerequisite and future-course trees with search and ratings-weighted path recommendations. | JavaScript, SQL/data, graph traversal, DAG logic | Interactive tree view, optimal path selection, UW Flow–based preferences. |
+| 5 | [**Alchemy E-commerce**](https://github.com/StevenShi998/Alchemy-E-commerce) | E-commerce store with content creation and session/customer analytics. | Product photography, Photoshop, session stats, campaign content | Brand storefront, email campaigns, metrics tied to creative direction. |
+| 6 | [**FFT for Retail Cycle Detection**](https://github.com/StevenShi998/Fast-Fourier-Transform) | Dominant cycles in U.S. retail sales; smoothed series for campaign and planning use. | Python, NumPy FFT, pandas, Matplotlib, low-pass filtering | Annual cycle identification, raw vs smoothed comparison, business interpretation. |
 
-Present portfolio projects in a recruiter-friendly format that emphasizes practical analysis skills for **Data Analyst** and **Marketing Data Analyst** roles: problem framing, data preparation, quantitative analysis, visualization, and actionable recommendations.
+---
 
-## Skills at a Glance
+## Skills at a glance
 
-| Area | Tools / Methods |
+| Area | Tools / methods |
 | --- | --- |
-| Data Querying | SQL (CTE, window functions, aggregations), MySQL |
-| Analysis | Python, pandas, NumPy, descriptive analytics, time-series analysis |
-| Visualization | Power BI, Tableau-style dashboard storytelling, Matplotlib |
-| Marketing Analytics | Campaign/report interpretation, customer behavior segmentation, KPI tracking |
-| Workflow | Jupyter Notebook, VS Code/Cursor, reproducible project READMEs |
+| Data querying | SQL (CTEs, window functions, aggregations), MySQL, PostgreSQL |
+| Analysis | Python, pandas, NumPy, descriptive analytics, time-series, FFT |
+| Visualization | Power BI, Tableau-style dashboards, Matplotlib |
+| Marketing analytics | Campaign/channel reporting, segmentation, KPI tracking |
+| Workflow | Jupyter, VS Code/Cursor, reproducible READMEs |
 
-## Projects
+---
 
-### Custom CPI & Grocery Budget Analysis
+## Project details
 
-![Custom CPI project visual](images/custom-cpi-hero.png)
+Below is a short detail section for each project: visual, caption, and a compact **Skills · Outcome · Link** line so recruiters can scan quickly.
 
-*Monthly basket trend, period-over-period price change, and ratio of increase vs. decrease months.*
+---
 
-This project analyzes Statistics Canada retail price data (2019-2024) to answer a practical question: how much did a fixed grocery basket actually change over time. I used SQL for rolling calculations and Python for cleaning and transformation, then summarized the story in dashboard-ready outputs.
-
-- **Tools:** SQL, Python (pandas/NumPy), Power BI
-- **What it shows:** Time-series trend analysis, KPI framing, and business interpretation
-- **Full project:** [Custom-CPI-Study](https://github.com/StevenShi998/Custom-CPI-Study)
-
-### StageTEN Marketing Analytics Showcase
-
-![StageTEN project visual](images/stage-ten-hero.png)
-
-*Campaign/channel performance visual used in report-style marketing analysis.*
-
-This work combines marketing reporting with automation scripts for HubSpot/Shopify workflows. The focus is on reducing manual operations, improving reporting consistency, and delivering concise performance insights for decision-makers.
-
-- **Tools:** Python, pandas, CSV workflows, marketing report analysis
-- **What it shows:** Marketing KPI reporting, process automation, and operational analytics
-- **Full project:** [StageTEN](https://github.com/StevenShi998/StageTEN)
-
-### Alchemy E-commerce Marketing Portfolio
-
-![Alchemy project visual](images/alchemy-hero.png)
-
-*Session-level trend visualization used to evaluate traffic and customer activity.*
-
-Alchemy showcases my blend of creative execution and marketing analytics. Beyond content creation, I track sessions and customer behavior to evaluate what creative direction and campaign assets are driving engagement.
-
-- **Tools:** E-commerce analytics, campaign content strategy, visual performance tracking
-- **What it shows:** Ability to connect creative assets with measurable business outcomes
-- **Full project:** [Alchemy-E-commerce](https://github.com/StevenShi998/Alchemy-E-commerce)
-
-### Dynamic Portfolio Optimization (PortfolioAI)
+### 1. Dynamic Portfolio Optimization (PortfolioAI)
 
 ![PortfolioAI project visual](images/portfolio-ai-hero.png)
 
 *Recommendation dashboard with allocation output and model-backed explanation.*
 
-PortfolioAI is an end-to-end web app that turns model output into user-facing recommendations. It demonstrates data pipeline thinking, dashboard communication, and product-oriented analytics where users can act on insights.
+End-to-end web app that turns model output into user-facing recommendations: users set risk tolerance, market cap, sectors, and indicator preferences; the app returns backtested allocations and a plain-English explanation. Demonstrates data pipeline thinking, dashboard communication, and product-oriented analytics.
 
-- **Tools:** Python, ML modeling, PostgreSQL, full-stack dashboard integration
-- **What it shows:** Translating model results into clear user decisions and metrics
-- **Full project:** [PortfolioAI](https://github.com/StevenShi998/PortfolioAI)
+| | |
+| --- | --- |
+| **Skills** | Python, Variational LSTM, PostgreSQL, full-stack dashboard |
+| **Outcome** | Live app with recommendation history and preference-driven allocations |
+| **Link** | [PortfolioAI](https://github.com/StevenShi998/PortfolioAI) |
 
-### FFT for Retail Cycle Detection
+---
 
-![FFT project visual](images/fft-hero.png)
+### 2. Custom CPI & Grocery Budget Analysis
 
-*Raw monthly retail sales versus smoothed trend after frequency-domain filtering.*
+![Custom CPI project visual](images/custom-cpi-hero.png)
 
-This project applies Fourier analysis to U.S. retail sales data to isolate seasonal cycles and reduce noise. It highlights my ability to use quantitative methods for interpretable business insights, especially for planning and trend detection.
+*Monthly basket trend, period-over-period price change, and ratio of increase vs decrease months.*
 
-- **Tools:** Python, NumPy FFT, pandas, Matplotlib
-- **What it shows:** Advanced analytical methods explained in practical, business terms
-- **Full project:** [Fast-Fourier-Transform](https://github.com/StevenShi998/Fast-Fourier-Transform)
+Uses Statistics Canada retail price data (2019–2024) to answer how much a fixed grocery basket changed over time. SQL handles rolling totals and percent change; Python cleans and pivots data; Power BI delivers the trend and category (e.g. beef) story. Directly relevant to data/marketing analyst roles: time-series, KPI framing, and business interpretation.
 
-### UW Course Explorer
+| | |
+| --- | --- |
+| **Skills** | SQL (CTEs, LAG, ROW_NUMBER), Python (pandas, NumPy), Power BI |
+| **Outcome** | 60-month trend, increase/decrease breakdown, interactive dashboard |
+| **Link** | [Custom-CPI-Study](https://github.com/StevenShi998/Custom-CPI-Study) |
+
+---
+
+### 3. StageTEN Marketing Analytics Showcase
+
+![StageTEN project visual](images/stage-ten-hero.png)
+
+*Campaign/channel performance visual used in report-style marketing analysis.*
+
+Combines marketing reporting (e.g. Empower By U vs Shopify app downloader, TGT wrap) with Python automation for HubSpot/Shopify: deal naming, amount/length prep, app-downloader list cleanup, duplicate detection. Focus on reducing manual work and delivering consistent performance insights for decision-makers.
+
+| | |
+| --- | --- |
+| **Skills** | Python, pandas, CSV, DictReader/DictWriter, reporting |
+| **Outcome** | PDF reports, automated deal names, lifecycle segmentation |
+| **Link** | [StageTEN](https://github.com/StevenShi998/StageTEN) |
+
+---
+
+### 4. UW Course Explorer
 
 ![UW Course Explorer project visual](images/uw-course-hero.png)
 
 *Interactive graph view for prerequisite paths and future course planning.*
 
-UW Course Explorer visualizes dependency trees and recommendation paths from structured course data. While this is education-focused, it demonstrates strong logic design, query handling, and user-centered analytics presentation.
+Visualizes UW course prerequisite and future-course trees with search and ratings-weighted path recommendations (UW Flow). Shows structured problem-solving: DAG traversal, AND/OR logic, heuristic-guided path selection—useful for demonstrating logic design and user-centered analytics presentation.
 
-- **Tools:** JavaScript, SQL/data processing, graph traversal logic
-- **What it shows:** Structured problem-solving, recommendation logic, and interactive analytics UX
-- **Full project:** [UW-Course-SearchTree](https://github.com/StevenShi998/UW-Course-SearchTree)
+| | |
+| --- | --- |
+| **Skills** | JavaScript, SQL/data processing, graph traversal, LP/MILP framing |
+| **Outcome** | Live site (uwtree.site), optimal path finder, depth and preference controls |
+| **Link** | [UW-Course-SearchTree](https://github.com/StevenShi998/UW-Course-SearchTree) |
+
+---
+
+### 5. Alchemy E-commerce Marketing Portfolio
+
+![Alchemy project visual](images/alchemy-hero.png)
+
+*Session-level trend visualization used to evaluate traffic and customer activity.*
+
+E-commerce store (alchemy1916.com) highlighting marketing abilities: content creation, product photography (Sony a7 IV), and visual editing (Photoshop). Tracks session and customer metrics to tie creative direction to measurable outcomes—relevant for marketing data analyst roles that value both creative execution and analytics.
+
+| | |
+| --- | --- |
+| **Skills** | E-commerce analytics, campaign content, session/customer metrics, Photoshop |
+| **Outcome** | Live store, email campaigns, performance tracking tied to assets |
+| **Link** | [Alchemy-E-commerce](https://github.com/StevenShi998/Alchemy-E-commerce) |
+
+---
+
+### 6. FFT for Retail Cycle Detection
+
+![FFT project visual](images/fft-hero.png)
+
+*Raw monthly retail sales versus smoothed trend after frequency-domain filtering.*
+
+Applies FFT and low-pass filtering to U.S. advance retail sales (FRED RSXFSN) to isolate the annual seasonal cycle and produce a smoothed series. Shows ability to use quantitative methods (spectral analysis, filtering) and translate them into business-friendly insights for campaign timing and planning.
+
+| | |
+| --- | --- |
+| **Skills** | Python, NumPy FFT, pandas, Matplotlib, PSD, inverse FFT |
+| **Outcome** | Dominant cycle identification, raw vs smoothed charts, Jupyter notebook |
+| **Link** | [Fast-Fourier-Transform](https://github.com/StevenShi998/Fast-Fourier-Transform) |
+
+---
 
 ## Closing
 
-If you want to review code details and full analysis write-ups, open each project repository above. I designed this guide so you can understand my technical strengths and business impact in just a few minutes.
+For full code, datasets, and write-ups, open each project link above. This guide is designed so you can see project order, skills, and outcomes in one table and then dive into any project’s detail and visuals in a few seconds.
