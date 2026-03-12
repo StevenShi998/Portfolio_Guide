@@ -6,6 +6,7 @@ These images are copied from sibling project repositories so `README.md` can ren
 
 - `custom-cpi-hero.png` <- `Custom-CPI-Study/pictures/total_budget_change_1.png`
 - `stage-ten-hero.png` <- `StageTEN/Pictures/Empower By U/app download.png`
+- `stage-ten-tgt-commerce.png` <- `StageTEN/Pictures/TGT/T.com commerce summary.png`
 - `alchemy-hero.png` <- `Alchemy-E-commerce/pictures/session stat.png`
 - `portfolio-ai-hero.png` <- `PortfolioAI/pictures/recommendation_page.png`
 - `fft-hero.png` <- `Fast-Fourier-Transform/pictures/rsxfsn_raw_vs_smoothed.png`
