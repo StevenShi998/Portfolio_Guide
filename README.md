@@ -8,13 +8,13 @@ I help turn raw data into clear insights and support business decisions with SQL
 
 ## 📋 Table of Contents
 
-- [📊 Data  Marketing Analyst Portfolio Guide](#-data--marketing-analyst-portfolio-guide)
+- [📊 Data \& Marketing Analyst Portfolio Guide](#-data--marketing-analyst-portfolio-guide)
   - [📋 Table of Contents](#-table-of-contents)
   - [📊 Projects overview](#-projects-overview)
   - [🛠️ Skills at a glance](#️-skills-at-a-glance)
   - [📁 Project details](#-project-details)
     - [📈 1. Dynamic Portfolio Optimization (PortfolioAI)](#-1-dynamic-portfolio-optimization-portfolioai)
-    - [🛒 2. Custom CPI  Grocery Budget Analysis](#-2-custom-cpi--grocery-budget-analysis)
+    - [🛒 2. Custom CPI \& Grocery Budget Analysis](#-2-custom-cpi--grocery-budget-analysis)
     - [📢 3. StageTEN Marketing Analytics Showcase](#-3-stageten-marketing-analytics-showcase)
     - [🎓 4. UW Course Explorer](#-4-uw-course-explorer)
     - [🛍️ 5. Alchemy E-commerce Marketing Portfolio](#️-5-alchemy-e-commerce-marketing-portfolio)
@@ -68,7 +68,7 @@ Below is a short detail section for each project: visual, caption, and a compact
 | **Link**    | [PortfolioAI](https://github.com/StevenShi998/PortfolioAI)             |
 
 
-PortfolioAI project visual
+![PortfolioAI recommendation dashboard](images/portfolio-ai-hero.png)
 
 *Recommendation dashboard with allocation output and model-backed explanation.*
 
@@ -85,12 +85,11 @@ End-to-end web app that turns model output into user-facing recommendations: use
 | **Outcome** | 60-month trend, increase/decrease breakdown, interactive dashboard   |
 | **Link**    | [Custom-CPI-Study](https://github.com/StevenShi998/Custom-CPI-Study) |
 
-
-
+![Custom CPI monthly basket trend](images/custom-cpi-hero.png)
 
 *Monthly basket trend, period-over-period price change, and ratio of increase vs decrease months.*
 
-
+![Custom CPI beef products](images/custom-cpi-beef-products.png)
 
 *Beef products: total price and price change, average monthly change, and product-level fluctuation.*
 
@@ -107,12 +106,11 @@ Uses Statistics Canada retail price data (2019–2024) to answer how much a fixe
 | **Outcome** | PDF reports, automated deal names, lifecycle segmentation |
 | **Link**    | [StageTEN](https://github.com/StevenShi998/StageTEN)      |
 
-
-
+![StageTEN campaign performance](images/stage-ten-hero.png)
 
 *Campaign/channel performance visual used in report-style marketing analysis.*
 
-
+![StageTEN T.com commerce summary](images/stage-ten-tgt-commerce.png)
 
 *T.com commerce summary: unique/total interactions and after-checkout metrics across episodes (e.g. checkout conversion, revenue).*
 
@@ -130,7 +128,7 @@ Combines marketing reporting (e.g. Empower By U vs Shopify app downloader, TGT w
 | **Link**    | [UW-Course-SearchTree](https://github.com/StevenShi998/UW-Course-SearchTree) |
 
 
-UW Course Explorer project visual
+![UW Course Explorer graph view](images/uw-course-hero.png)
 
 *Interactive graph view for prerequisite paths and future course planning.*
 
@@ -147,12 +145,11 @@ Visualizes UW course prerequisite and future-course trees with search and rating
 | **Outcome** | Live store, email campaigns, performance tracking tied to assets            |
 | **Link**    | [Alchemy-E-commerce](https://github.com/StevenShi998/Alchemy-E-commerce)    |
 
-
-
+![Alchemy session trend](images/alchemy-hero.png)
 
 *Session-level trend visualization used to evaluate traffic and customer activity.*
 
-
+![Alchemy store creative](images/alchemy-store2.png)
 
 *Store creative: product display panels and brand storytelling.*
 
@@ -170,7 +167,7 @@ E-commerce store (alchemy1916.com) highlighting marketing abilities: content cre
 | **Link**    | [Fast-Fourier-Transform](https://github.com/StevenShi998/Fast-Fourier-Transform) |
 
 
-FFT project visual
+![FFT raw vs smoothed retail sales](images/fft-hero.png)
 
 *Raw monthly retail sales versus smoothed trend after frequency-domain filtering.*
 
