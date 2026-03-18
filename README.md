@@ -58,6 +58,16 @@ Welcome to my Data & Marketing Analysis Portfolio.
 
 ---
 
+## Certifications
+
+<table>
+  <tr>
+    <td align="center"><img src="https://go-certification.vercel.app/api/icons?i=tableau" width="40"><br><b>Tableau Desktop Specialist</b></td>
+    <td align="center"><img src="https://go-certification.vercel.app/api/icons?i=Goolge-Data-Analytics" width="40"><br><b>Google Data Analytics</b></td>
+  </tr>
+</table>
+---
+
 ## Project Details
 
 ### 1. Dynamic Portfolio Optimization (PortfolioAI)
