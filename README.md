@@ -9,7 +9,7 @@ Welcome to my Data & Marketing Analysis Portfolio.
 | # | Project | Business Focus | Tools / Skills | Outcome |
 | --- | --- | --- | --- | --- |
 | 1 | **[PortfolioAI](https://github.com/StevenShi998/PortfolioAI)** | ML-driven stock allocation and plain-English recommendations for end users. | Python, Variational LSTM, PostgreSQL, full-stack dashboard | Backtested allocations, recommendation history, user preference–driven outputs. |
-| 2 | **[Custom CPI & Grocery Budget](https://github.com/StevenShi998/Custom-CPI-Study)** | Why CPI increased over the last 5 years? What are the drivers and why? | SQL (CTEs, window functions), Python (pandas, NumPy), Power BI | 60-month trend, increase/decrease breakdown, beef category focus; dashboard-ready. |
+| 2 | **[Custom CPI & Grocery Budget](https://github.com/StevenShi998/Custom-CPI-Study)** | Why CPI increased over the last 5 years; what the drivers were and why. | SQL (CTEs, window functions), Python (pandas, NumPy), Power BI | 60-month trend, increase/decrease breakdown, beef category focus; dashboard-ready. |
 | 3 | **[StageTEN](https://github.com/StevenShi998/StageTEN)** | Marketing reports and automation for HubSpot/Shopify (deal naming, app downloader, KPIs). | Python, pandas, Google Analytics, HubSpot CRM | Consistent deal naming, lifecycle segmentation, channel performance reports. |
 | 4 | **[UW Course Explorer](https://github.com/StevenShi998/UW-Course-SearchTree)** | Prerequisite and future-course trees with search and ratings-weighted path recommendations. | JavaScript, SQL, graph traversal, DAG logic | Interactive tree view, optimal path selection, UW Flow–based preferences. |
 | 5 | **[Alchemy E-commerce](https://github.com/StevenShi998/Alchemy-E-commerce)** | My own e-commerce store with product photography, email campaigns, and marketing content. | Adobe Photoshop, Adobe Lightroom, Shopify, email marketing | Live store, marketing campaigns, $30k+ real revenue. |
@@ -43,7 +43,6 @@ Welcome to my Data & Marketing Analysis Portfolio.
   <tr>
     <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow" width="40"><br><b>TensorFlow</b></td>
     <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch" width="40"><br><b>PyTorch</b></td>
-    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn" width="40"><br><b>Scikit-learn</b></td>
     <td align="center"><img src="https://img.shields.io/badge/-PySpark-FDEE21?style=flat-square&logo=apache-spark&logoColor=black" width="40"><br><b>PySpark</b></td>
   </tr>
 </table>
@@ -59,13 +58,19 @@ Welcome to my Data & Marketing Analysis Portfolio.
 ---
 
 ## Certifications
-
 <table>
   <tr>
-    <td align="center"><img src="https://go-certification.vercel.app/api/icons?i=tableau" width="40"><br><b>Tableau Desktop Specialist</b></td>
-    <td align="center"><img src="https://go-certification.vercel.app/api/icons?i=Goolge-Data-Analytics" width="40"><br><b>Google Data Analytics</b></td>
+    <td align="center">
+      <img src="certification/tableau.png" width="180" alt="Tableau Desktop Specialist"><br>
+      <b>Tableau Desktop Specialist</b>
+    </td>
+    <td align="center">
+      <img src="certification/Google%20Data%20Analytics.png" width="180" alt="Google Data Analytics"><br>
+      <b>Google Data Analytics</b>
+    </td>
   </tr>
 </table>
+
 ---
 
 ## Project Details
@@ -74,7 +79,7 @@ Welcome to my Data & Marketing Analysis Portfolio.
 
 | | |
 | --- | --- |
-| **Skills** | Python, Variational LSTM, PostgreSQL, FastAPI, SqlAlchemy|
+| **Skills** | Python (TensorFlow), Variational LSTM, PostgreSQL, FastAPI, SQLAlchemy |
 | **Outcome** | Live app with user interface for preference-driven stock portfolio allocations |
 | **Link** | [PortfolioAI](https://github.com/StevenShi998/PortfolioAI) |
 
@@ -90,7 +95,7 @@ End-to-end web app that turns model output into user-facing recommendations: use
 
 | | |
 | --- | --- |
-| **Skills** | SQL, Python (pandas, NumPy), Power BI |
+| **Skills** | SQL, Python (pandas, numpy), Power BI |
 | **Outcome** | 60-month trend, increase/decrease breakdown, interactive dashboard |
 | **Link** | [Custom-CPI-Study](https://github.com/StevenShi998/Custom-CPI-Study) |
 
@@ -111,7 +116,7 @@ Uses Statistics Canada retail price data (2019–2024) to answer what led to the
 | | |
 | --- | --- |
 | **Skills** | Google Analytics, Google Sheets, Python, HubSpot CRM, Canva |
-| **Outcome** | PDF reports, automated deal names, lifecycle segmentation |
+| **Outcome** | Marketing insights, HubSpot workflow automation, email marketing |
 | **Link** | [StageTEN](https://github.com/StevenShi998/StageTEN) |
 
 ![StageTEN campaign performance](images/stage-ten-hero.png)
@@ -122,7 +127,7 @@ Uses Statistics Canada retail price data (2019–2024) to answer what led to the
 
 *T.com commerce summary: unique/total interactions and after-checkout metrics across episodes (e.g. checkout conversion, revenue).*
 
-Built marketing reporting (e.g. Empower By U vs Shopify app downloader, TGT wrap) for large retail and SaaS company. Python automation for HubSpot/Shopify tasks: deal naming, amount/length prep, app-downloader list cleanup, duplicate detection.
+Built marketing reporting (e.g., Empower By U vs. Shopify app downloader, TGT wrap) for a large retail and SaaS company. Used Python automation for HubSpot/Shopify tasks such as deal naming, amount/length prep, app-downloader list cleanup, and duplicate detection. Managed HubSpot for client retention and onboarding workflow automation. Created monthly newsletters and marketing emails.
 
 ---
 
@@ -130,7 +135,7 @@ Built marketing reporting (e.g. Empower By U vs Shopify app downloader, TGT wrap
 
 | | |
 | --- | --- |
-| **Skills** | SQL, Python, LP/MILP framing, FastAPI, SqlAlchemy |
+| **Skills** | SQL, Python (pandas, NumPy), Power BI |
 | **Outcome** | Live site (uwtree.site), optimal path finder, depth and preference controls |
 | **Link** | [UW-Course-SearchTree](https://github.com/StevenShi998/UW-Course-SearchTree) |
 
@@ -158,7 +163,7 @@ Built an interactive prerequisite path planner for UW students. Uses graph trave
 
 *Store creative: product display panels and brand storytelling.*
 
-My own e-commerce store (alchemy1916.com). Built product photography (Sony a7 IV), edited assets in Photoshop and Lightroom, and ran email campaigns and marketing posters to drive real sales—generating $30k+ in revenue.
+My own e-commerce store (alchemy1916.com). Built product photography, edited assets in Photoshop and Lightroom, and ran email campaigns and marketing posters to drive real sales—generating $30k+ in revenue.
 
 ---
 
