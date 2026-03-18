@@ -19,8 +19,6 @@ Welcome to my Data & Marketing Analysis Portfolio.
 
 ## Skills at a Glance
 
----
-
 ### Programming Languages
 <table>
   <tr>
@@ -29,8 +27,6 @@ Welcome to my Data & Marketing Analysis Portfolio.
     <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=javascript" width="40"><br><b>JavaScript</b></td>
   </tr>
 </table>
-
----
 
 ### Data Analysis & Visualization
 <table>
@@ -43,8 +39,6 @@ Welcome to my Data & Marketing Analysis Portfolio.
   </tr>
 </table>
 
----
-
 ### Databases & Cloud
 <table>
   <tr>
@@ -53,7 +47,6 @@ Welcome to my Data & Marketing Analysis Portfolio.
   </tr>
 </table>
 
----
 
 ## Project Details
 
