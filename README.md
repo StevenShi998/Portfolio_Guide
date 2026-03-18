@@ -1,72 +1,41 @@
-# 📊 Data & Marketing Analyst Portfolio Guide
+# Data & Marketing Analyst Portfolio Guide
 
-Welcome to my Data & Marketing Analysis Portfolio. 👋
-
-I help turn raw data into clear insights and support business decisions with SQL, Python, dashboards, and marketing analytics. This page is a curated showcase of projects across data analysis, marketing reporting, and product analytics—each with a short summary and visuals so you can quickly see what I built and which skills I used.
+Welcome to my Data & Marketing Analysis Portfolio.
 
 ---
 
-## 📋 Table of Contents
+## Projects Overview
 
-- [📊 Data \& Marketing Analyst Portfolio Guide](#-data--marketing-analyst-portfolio-guide)
-  - [📋 Table of Contents](#-table-of-contents)
-  - [📊 Projects overview](#-projects-overview)
-  - [🛠️ Skills at a glance](#️-skills-at-a-glance)
-  - [📁 Project details](#-project-details)
-    - [📈 1. Dynamic Portfolio Optimization (PortfolioAI)](#-1-dynamic-portfolio-optimization-portfolioai)
-    - [🛒 2. Custom CPI \& Grocery Budget Analysis](#-2-custom-cpi--grocery-budget-analysis)
-    - [📢 3. StageTEN Marketing Analytics Showcase](#-3-stageten-marketing-analytics-showcase)
-    - [🎓 4. UW Course Explorer](#-4-uw-course-explorer)
-    - [🛍️ 5. Alchemy E-commerce Marketing Portfolio](#️-5-alchemy-e-commerce-marketing-portfolio)
-    - [📉 6. FFT for Retail Cycle Detection](#-6-fft-for-retail-cycle-detection)
-  - [👋 Closing](#-closing)
+| # | Project | Business Focus | Tools / Skills | Outcome |
+| --- | --- | --- | --- | --- |
+| 1 | **[PortfolioAI](https://github.com/StevenShi998/PortfolioAI)** | ML-driven stock allocation and plain-English recommendations for end users. | Python, Variational LSTM, PostgreSQL, full-stack dashboard | Backtested allocations, recommendation history, user preference–driven outputs. |
+| 2 | **[Custom CPI & Grocery Budget](https://github.com/StevenShi998/Custom-CPI-Study)** | Why CPI increased over the last 5 years? What are the drivers and why? | SQL (CTEs, window functions), Python (pandas, NumPy), Power BI | 60-month trend, increase/decrease breakdown, beef category focus; dashboard-ready. |
+| 3 | **[StageTEN](https://github.com/StevenShi998/StageTEN)** | Marketing reports and automation for HubSpot/Shopify (deal naming, app downloader, KPIs). | Python, pandas, Google Analytics, HubSpot CRM | Consistent deal naming, lifecycle segmentation, channel performance reports. |
+| 4 | **[UW Course Explorer](https://github.com/StevenShi998/UW-Course-SearchTree)** | Prerequisite and future-course trees with search and ratings-weighted path recommendations. | JavaScript, SQL, graph traversal, DAG logic | Interactive tree view, optimal path selection, UW Flow–based preferences. |
+| 5 | **[Alchemy E-commerce](https://github.com/StevenShi998/Alchemy-E-commerce)** | My own e-commerce store with product photography, email campaigns, and marketing content. | Adobe Photoshop, Adobe Lightroom, Shopify, email marketing | Live store, marketing campaigns, $30k+ real revenue. |
+| 6 | **[FFT for Retail Cycle Detection](https://github.com/StevenShi998/Fast-Fourier-Transform)** | Dominant cycles in U.S. retail sales; smoothed series for campaign and planning use. | Python, NumPy FFT, pandas, Matplotlib, low-pass filtering | Annual cycle identification, raw vs smoothed comparison, business interpretation. |
 
 ---
 
-## 📊 Projects overview
+## Skills at a Glance
 
-
-| #   | Project                                                                                         | Business focus                                                                              | Tools / skills                                                  | Outcome                                                                            |
-| --- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| 1   | **📈 [PortfolioAI](https://github.com/StevenShi998/PortfolioAI)**                               | ML-driven stock allocation and plain-English recommendations for end users.                 | Python, Variational LSTM, PostgreSQL, full-stack dashboard      | Backtested allocations, recommendation history, user preference–driven outputs.    |
-| 2   | **🛒 [Custom CPI & Grocery Budget](https://github.com/StevenShi998/Custom-CPI-Study)**          | Why CPI increased over the last 5 years? what are the drivers? and why?                     | SQL (CTEs, window functions), Python (pandas, NumPy), Power BI  | 60-month trend, increase/decrease breakdown, beef category focus; dashboard-ready. |
-| 3   | **📢 [StageTEN](https://github.com/StevenShi998/StageTEN)**                                     | Marketing reports and automation for HubSpot/Shopify (deal naming, app downloader, KPIs).   | Python, pandas, CSV, report writing                             | Consistent deal naming, lifecycle segmentation, channel performance reports.       |
-| 4   | **🎓 [UW Course Explorer](https://github.com/StevenShi998/UW-Course-SearchTree)**               | Prerequisite and future-course trees with search and ratings-weighted path recommendations. | JavaScript, SQL/data, graph traversal, DAG logic                | Interactive tree view, optimal path selection, UW Flow–based preferences.          |
-| 5   | **🛍️ [Alchemy E-commerce](https://github.com/StevenShi998/Alchemy-E-commerce)**                | My E-commerce store with content creation and Email Marketing.                              | Product photography, Photoshop, session stats, campaign content | Brand storefront, email campaigns, metrics tied to creative direction.             |
-| 6   | **📉 [FFT for Retail Cycle Detection](https://github.com/StevenShi998/Fast-Fourier-Transform)** | Dominant cycles in U.S. retail sales; smoothed series for campaign and planning use.        | Python, NumPy FFT, pandas, Matplotlib, low-pass filtering       | Annual cycle identification, raw vs smoothed comparison, business interpretation.  |
-
+| Area | Tools / Methods |
+| --- | --- |
+| Data Pipeline | ![SQL](skill%20icon/sql.png), ![PostgreSQL](skill%20icon/postgre.png), ![Databricks](skill%20icon/Databricks_Logo.png) |
+| Analysis | ![Python](skill%20icon/python.png) (![pandas](skill%20icon/Pandas_logo.svg.png), ![NumPy](skill%20icon/numpy.jpg)), ![SQLAlchemy](skill%20icon/sqlalchemy.jpg) |
+| Visualization | ![Power BI](skill%20icon/Power%20BI%20Icon.png), ![Tableau](skill%20icon/tableau-software.jpg) |
 
 ---
 
-## 🛠️ Skills at a glance
+## Project Details
 
+### 1. Dynamic Portfolio Optimization (PortfolioAI)
 
-| Area                   | Tools / methods                                                |
-| ---------------------- | -------------------------------------------------------------- |
-| 🗄️ Data querying      | SQL (CTEs, window functions, aggregations), MySQL, PostgreSQL  |
-| 🐍 Analysis            | Python, pandas, NumPy, descriptive analytics, time-series, FFT |
-| 📊 Visualization       | Power BI, Tableau, Matplotlib                                  |
-| 📢 Marketing analytics | Campaign/channel reporting, segmentation, KPI tracking         |
-| ⚙️ Workflow            | Jupyter, VS Code/Cursor                                        |
-
-
----
-
-## 📁 Project details
-
-Below is a short detail section for each project: visual, caption, and a compact **Skills · Outcome · Link** line so recruiters can scan quickly.
-
----
-
-### 📈 1. Dynamic Portfolio Optimization (PortfolioAI)
-
-
-|             |                                                                        |
-| ----------- | ---------------------------------------------------------------------- |
-| **Skills**  | Python, Variational LSTM, PostgreSQL, full-stack dashboard             |
-| **Outcome** | Live app with recommendation history and preference-driven allocations |
-| **Link**    | [PortfolioAI](https://github.com/StevenShi998/PortfolioAI)             |
-
+| | |
+| --- | --- |
+| **Skills** | Python, Variational LSTM, PostgreSQL, FastAPI, SqlAlchemy|
+| **Outcome** | Live app with user interface for preference-driven stock portfolio allocations |
+| **Link** | [PortfolioAI](https://github.com/StevenShi998/PortfolioAI) |
 
 ![PortfolioAI recommendation dashboard](images/portfolio-ai-hero.png)
 
@@ -76,14 +45,13 @@ End-to-end web app that turns model output into user-facing recommendations: use
 
 ---
 
-### 🛒 2. Custom CPI & Grocery Budget Analysis
+### 2. Custom CPI & Grocery Budget Analysis
 
-
-|             |                                                                      |
-| ----------- | -------------------------------------------------------------------- |
-| **Skills**  | SQL (CTEs, LAG, ROW_NUMBER), Python (pandas, NumPy), Power BI        |
-| **Outcome** | 60-month trend, increase/decrease breakdown, interactive dashboard   |
-| **Link**    | [Custom-CPI-Study](https://github.com/StevenShi998/Custom-CPI-Study) |
+| | |
+| --- | --- |
+| **Skills** | SQL, Python (pandas, NumPy), Power BI |
+| **Outcome** | 60-month trend, increase/decrease breakdown, interactive dashboard |
+| **Link** | [Custom-CPI-Study](https://github.com/StevenShi998/Custom-CPI-Study) |
 
 ![Custom CPI monthly basket trend](images/custom-cpi-hero.png)
 
@@ -93,18 +61,17 @@ End-to-end web app that turns model output into user-facing recommendations: use
 
 *Beef products: total price and price change, average monthly change, and product-level fluctuation.*
 
-Uses Statistics Canada retail price data (2019–2024) to answer how much a fixed grocery basket changed over time. SQL handles rolling totals and percent change; Python cleans and pivots data; Power BI delivers the trend and category (e.g. beef) story. Directly relevant to data/marketing analyst roles: time-series, KPI framing, and business interpretation.
+Uses Statistics Canada retail price data (2019–2024) to answer what led to the increase in grocery costs over five years.
 
 ---
 
-### 📢 3. StageTEN Marketing Analytics Showcase
+### 3. StageTEN Marketing Analytics Showcase
 
-
-|             |                                                           |
-| ----------- | --------------------------------------------------------- |
-| **Skills**  | Python, pandas, CSV, DictReader/DictWriter, reporting     |
+| | |
+| --- | --- |
+| **Skills** | Google Analytics, Google Sheets, Python, HubSpot CRM, Canva |
 | **Outcome** | PDF reports, automated deal names, lifecycle segmentation |
-| **Link**    | [StageTEN](https://github.com/StevenShi998/StageTEN)      |
+| **Link** | [StageTEN](https://github.com/StevenShi998/StageTEN) |
 
 ![StageTEN campaign performance](images/stage-ten-hero.png)
 
@@ -114,58 +81,53 @@ Uses Statistics Canada retail price data (2019–2024) to answer how much a fixe
 
 *T.com commerce summary: unique/total interactions and after-checkout metrics across episodes (e.g. checkout conversion, revenue).*
 
-Combines marketing reporting (e.g. Empower By U vs Shopify app downloader, TGT wrap) with Python automation for HubSpot/Shopify: deal naming, amount/length prep, app-downloader list cleanup, duplicate detection. Focus on reducing manual work and delivering consistent performance insights for decision-makers.
+Built marketing reporting (e.g. Empower By U vs Shopify app downloader, TGT wrap) for large retail and SaaS company. Python automation for HubSpot/Shopify tasks: deal naming, amount/length prep, app-downloader list cleanup, duplicate detection.
 
 ---
 
-### 🎓 4. UW Course Explorer
+### 4. UW Course Explorer
 
-
-|             |                                                                              |
-| ----------- | ---------------------------------------------------------------------------- |
-| **Skills**  | JavaScript, SQL/data processing, graph traversal, LP/MILP framing            |
-| **Outcome** | Live site (uwtree.site), optimal path finder, depth and preference controls  |
-| **Link**    | [UW-Course-SearchTree](https://github.com/StevenShi998/UW-Course-SearchTree) |
-
+| | |
+| --- | --- |
+| **Skills** | SQL, Python, LP/MILP framing, FastAPI, SqlAlchemy |
+| **Outcome** | Live site (uwtree.site), optimal path finder, depth and preference controls |
+| **Link** | [UW-Course-SearchTree](https://github.com/StevenShi998/UW-Course-SearchTree) |
 
 ![UW Course Explorer graph view](images/uw-course-hero.png)
 
 *Interactive graph view for prerequisite paths and future course planning.*
 
-Visualizes UW course prerequisite and future-course trees with search and ratings-weighted path recommendations (UW Flow). Shows structured problem-solving: DAG traversal, AND/OR logic, heuristic-guided path selection—useful for demonstrating logic design and user-centered analytics presentation.
+Built an interactive prerequisite path planner for UW students. Uses graph traversal and optimization logic to recommend efficient course sequences based on constraints, preferences, and ratings. Live at uwtree.site.
 
 ---
 
-### 🛍️ 5. Alchemy E-commerce Marketing Portfolio
+### 5. Alchemy E-commerce Shop
 
+| | |
+| --- | --- |
+| **Skills** | Email marketing, Adobe Lightroom, Adobe Photoshop, Shopify |
+| **Outcome** | Live store, email campaigns, marketing content, $30k+ real revenue |
+| **Link** | [Alchemy-E-commerce](https://github.com/StevenShi998/Alchemy-E-commerce) |
 
-|             |                                                                             |
-| ----------- | --------------------------------------------------------------------------- |
-| **Skills**  | E-commerce analytics, campaign content, session/customer metrics, Photoshop |
-| **Outcome** | Live store, email campaigns, performance tracking tied to assets            |
-| **Link**    | [Alchemy-E-commerce](https://github.com/StevenShi998/Alchemy-E-commerce)    |
+![Alchemy store hero](images/alchemy-hero.png)
 
-![Alchemy session trend](images/alchemy-hero.png)
-
-*Session-level trend visualization used to evaluate traffic and customer activity.*
+*Product display and brand creative shot from the live store.*
 
 ![Alchemy store creative](images/alchemy-store2.png)
 
 *Store creative: product display panels and brand storytelling.*
 
-E-commerce store (alchemy1916.com) highlighting marketing abilities: content creation, product photography (Sony a7 IV), and visual editing (Photoshop). Tracks session and customer metrics to tie creative direction to measurable outcomes—relevant for marketing data analyst roles that value both creative execution and analytics.
+My own e-commerce store (alchemy1916.com). Built product photography (Sony a7 IV), edited assets in Photoshop and Lightroom, and ran email campaigns and marketing posters to drive real sales—generating $30k+ in revenue.
 
 ---
 
-### 📉 6. FFT for Retail Cycle Detection
+### 6. FFT for Retail Cycle Detection
 
-
-|             |                                                                                  |
-| ----------- | -------------------------------------------------------------------------------- |
-| **Skills**  | Python, NumPy FFT, pandas, Matplotlib, PSD, inverse FFT                          |
-| **Outcome** | Dominant cycle identification, raw vs smoothed charts, Jupyter notebook          |
-| **Link**    | [Fast-Fourier-Transform](https://github.com/StevenShi998/Fast-Fourier-Transform) |
-
+| | |
+| --- | --- |
+| **Skills** | Python, NumPy FFT, pandas, Matplotlib, PSD, inverse FFT |
+| **Outcome** | Dominant cycle identification, raw vs smoothed charts, Jupyter notebook |
+| **Link** | [Fast-Fourier-Transform](https://github.com/StevenShi998/Fast-Fourier-Transform) |
 
 ![FFT raw vs smoothed retail sales](images/fft-hero.png)
 
@@ -174,7 +136,3 @@ E-commerce store (alchemy1916.com) highlighting marketing abilities: content cre
 Applies FFT and low-pass filtering to U.S. advance retail sales (FRED RSXFSN) to isolate the annual seasonal cycle and produce a smoothed series. Shows ability to use quantitative methods (spectral analysis, filtering) and translate them into business-friendly insights for campaign timing and planning.
 
 ---
-
-## 👋 Closing
-
-For full code, datasets, and write-ups, open each project link above. This guide is designed so you can see project order, skills, and outcomes in one table and then dive into any project’s detail and visuals in a few seconds.
