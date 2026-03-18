@@ -17,14 +17,13 @@ Welcome to my Data & Marketing Analysis Portfolio.
 
 ---
 
-## Skills at a Glance
+## Skills
 
 ### Programming Languages
 <table>
   <tr>
     <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=python" width="40"><br><b>Python</b></td>
     <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=mysql" width="40"><br><b>SQL</b></td>
-    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=javascript" width="40"><br><b>JavaScript</b></td>
   </tr>
 </table>
 
@@ -44,6 +43,18 @@ Welcome to my Data & Marketing Analysis Portfolio.
   <tr>
     <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=postgres" width="40"><br><b>PostgreSQL</b></td>
     <td align="center"><img src="https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" width="40"><br><b>Databricks</b></td>
+  </tr>
+</table>
+
+---
+
+### AI/ML & Big Data
+<table>
+  <tr>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow" width="40"><br><b>TensorFlow</b></td>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch" width="40"><br><b>PyTorch</b></td>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn" width="40"><br><b>Scikit-learn</b></td>
+    <td align="center"><img src="https://img.shields.io/badge/-PySpark-FDEE21?style=flat-square&logo=apache-spark&logoColor=black" width="40"><br><b>PySpark</b></td>
   </tr>
 </table>
 
