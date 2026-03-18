@@ -19,15 +19,45 @@ Welcome to my Data & Marketing Analysis Portfolio.
 
 ## Skills at a Glance
 
-| Area | Tools / Methods |
-| --- | --- |
-| Data Pipeline | ![SQL](skill%20icon/sql.png), ![PostgreSQL](skill%20icon/postgre.png), ![Databricks](skill%20icon/Databricks_Logo.png) |
-| Analysis | ![Python](skill%20icon/python.png) (![pandas](skill%20icon/Pandas_logo.svg.png), ![NumPy](skill%20icon/numpy.jpg)), ![SQLAlchemy](skill%20icon/sqlalchemy.jpg) |
-| Visualization | ![Power BI](skill%20icon/Power%20BI%20Icon.png), ![Tableau](skill%20icon/tableau-software.jpg) |
+---
+
+### Programming Languages
+<table>
+  <tr>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=python" width="40"><br><b>Python</b></td>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=mysql" width="40"><br><b>SQL</b></td>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=javascript" width="40"><br><b>JavaScript</b></td>
+  </tr>
+</table>
+
+---
+
+### Data Analysis & Visualization
+<table>
+  <tr>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" width="40"><br><b>Pandas</b></td>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=numpy" width="40"><br><b>NumPy</b></td>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib" width="40"><br><b>Matplotlib</b></td>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=tableau" width="40"><br><b>Tableau</b></td>
+    <td align="center"><img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" width="40"><br><b>Power BI</b></td>
+  </tr>
+</table>
+
+---
+
+### Databases & Cloud
+<table>
+  <tr>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=postgres" width="40"><br><b>PostgreSQL</b></td>
+    <td align="center"><img src="https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" width="40"><br><b>Databricks</b></td>
+  </tr>
+</table>
 
 ---
 
 ## Project Details
+
+---
 
 ### 1. Dynamic Portfolio Optimization (PortfolioAI)
 
