@@ -47,10 +47,9 @@ Welcome to my Data & Marketing Analysis Portfolio.
   </tr>
 </table>
 
+---
 
 ## Project Details
-
----
 
 ### 1. Dynamic Portfolio Optimization (PortfolioAI)
 
