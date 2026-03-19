@@ -61,11 +61,11 @@ Welcome to my Data & Marketing Analysis Portfolio.
 <table>
   <tr>
     <td align="center">
-      <img src="certification/tableau.png" width="180" alt="Tableau Desktop Specialist"><br>
+      <img src="materials/certification/tableau.png" width="180" alt="Tableau Desktop Specialist"><br>
       <b>Tableau Desktop Specialist</b>
     </td>
     <td align="center">
-      <img src="certification/Google%20Data%20Analytics.png" width="180" alt="Google Data Analytics"><br>
+      <img src="materials/certification/Google%20Data%20Analytics.png" width="180" alt="Google Data Analytics"><br>
       <b>Google Data Analytics</b>
     </td>
   </tr>
@@ -83,7 +83,7 @@ Welcome to my Data & Marketing Analysis Portfolio.
 | **Outcome** | Live app with user interface for preference-driven stock portfolio allocations |
 | **Link** | [PortfolioAI](https://github.com/StevenShi998/PortfolioAI) |
 
-![PortfolioAI recommendation dashboard](images/portfolio-ai-hero.png)
+![PortfolioAI recommendation dashboard](materials/images/portfolio-ai-hero.png)
 
 *Recommendation dashboard with allocation output and model-backed explanation.*
 
@@ -99,11 +99,11 @@ End-to-end web app that turns model output into user-facing recommendations: use
 | **Outcome** | 60-month trend, increase/decrease breakdown, interactive dashboard |
 | **Link** | [Custom-CPI-Study](https://github.com/StevenShi998/Custom-CPI-Study) |
 
-![Custom CPI monthly basket trend](images/custom-cpi-hero.png)
+![Custom CPI monthly basket trend](materials/images/custom-cpi-hero.png)
 
 *Monthly basket trend, period-over-period price change, and ratio of increase vs decrease months.*
 
-![Custom CPI beef products](images/custom-cpi-beef-products.png)
+![Custom CPI beef products](materials/images/custom-cpi-beef-products.png)
 
 *Beef products: total price and price change, average monthly change, and product-level fluctuation.*
 
@@ -119,11 +119,11 @@ Uses Statistics Canada retail price data (2019–2024) to answer what led to the
 | **Outcome** | Marketing insights, HubSpot workflow automation, email marketing |
 | **Link** | [StageTEN](https://github.com/StevenShi998/StageTEN) |
 
-![StageTEN campaign performance](images/stage-ten-hero.png)
+![StageTEN campaign performance](materials/images/stage-ten-hero.png)
 
 *Campaign/channel performance visual used in report-style marketing analysis.*
 
-![StageTEN T.com commerce summary](images/stage-ten-tgt-commerce.png)
+![StageTEN T.com commerce summary](materials/images/stage-ten-tgt-commerce.png)
 
 *T.com commerce summary: unique/total interactions and after-checkout metrics across episodes (e.g. checkout conversion, revenue).*
 
@@ -139,7 +139,7 @@ Built marketing reporting (e.g., Empower By U vs. Shopify app downloader, TGT wr
 | **Outcome** | Live site (uwtree.site), optimal path finder, depth and preference controls |
 | **Link** | [UW-Course-SearchTree](https://github.com/StevenShi998/UW-Course-SearchTree) |
 
-![UW Course Explorer graph view](images/uw-course-hero.png)
+![UW Course Explorer graph view](materials/images/uw-course-hero.png)
 
 *Interactive graph view for prerequisite paths and future course planning.*
 
@@ -155,11 +155,11 @@ Built an interactive prerequisite path planner for UW students. Uses graph trave
 | **Outcome** | Live store, email campaigns, marketing content, $30k+ real revenue |
 | **Link** | [Alchemy-E-commerce](https://github.com/StevenShi998/Alchemy-E-commerce) |
 
-![Alchemy store hero](images/alchemy-hero.png)
+![Alchemy store hero](materials/images/alchemy-hero.png)
 
 *Product display and brand creative shot from the live store.*
 
-![Alchemy store creative](images/alchemy-store2.png)
+![Alchemy store creative](materials/images/alchemy-store2.png)
 
 *Store creative: product display panels and brand storytelling.*
 
@@ -175,7 +175,7 @@ My own e-commerce store (alchemy1916.com). Built product photography, edited ass
 | **Outcome** | Dominant cycle identification, raw vs smoothed charts, Jupyter notebook |
 | **Link** | [Fast-Fourier-Transform](https://github.com/StevenShi998/Fast-Fourier-Transform) |
 
-![FFT raw vs smoothed retail sales](images/fft-hero.png)
+![FFT raw vs smoothed retail sales](materials/images/fft-hero.png)
 
 *Raw monthly retail sales versus smoothed trend after frequency-domain filtering.*
 
